@@ -20,3 +20,7 @@
     "nodemon": "^3.0.1"
   }
 }
+sua_conexao_mongodb_aqui
+OPENAI_API_KEY=sua_chave_openai_aqui
+JWT_SECRET=um_segredo_bem_forte_aqui
+PORT=5000
